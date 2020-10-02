@@ -20,8 +20,8 @@
             color: #fff;
         }
         iframe.video{
-            min-height:480;
-            min-width:854;
+            min-height:480px;
+            min-width:854px;
         }
         svg.octicon {
             fill: #fff;
