@@ -1,4 +1,4 @@
-body {
+        body {
             font-family: sans-serif;
             background-color: #666;
             color: #fff;
@@ -19,7 +19,10 @@ body {
             float: left;
             color: #fff;
         }
-
+        iframe.video{
+            min-height:480;
+            min-width:854;
+        }
         svg.octicon {
             fill: #fff;
             transform: translate(5%, 15%);
